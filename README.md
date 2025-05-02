@@ -1,4 +1,4 @@
-1. Mục tiêu của đề tài: 
+1. Mục tiêu của đề tài:  
 Mục tiêu chính của đề tài là xây dựng và triển khai thành công một hệ thống website bán hàng. Hệ thống này sẽ cung cấp một giao diện trực tuyến thuận tiện cho người dùng có thể mua hàng và kiểm tra các thông tin trong quá trình mua hàng, đồng thời tối ưu hóa quy trình mua hàng, tiết kiệm nhiều thời gian và các tác vụ xử lý nhanh chóng, tiện lợi.
 Cải thiện quy trình bán hàng, nâng cao năng suất lao động, tăng năng lực cạnh tranh của doanh nghiệp, tự động hóa các quy trình, giảm sai sót và nâng cao hiệu quả hoạt động giúp các nhà quản lý ra các quyết định chiến lược và điều hành chính xác hơn. Đồng thời, hỗ trợ dự báo nhu cầu, quản lý nguồn cung và lập kế hoạch kinh doanh từ đó đưa ra các quyết định chiến lược và điều hành chính xác hơn.
 
