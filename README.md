@@ -21,7 +21,7 @@ Quản trị viên: là người quản trị cao nhất của hệ thống, qu�
 **Use case đăng nhập:**  
 Actor: Quản trị viên, khách hàng(người dùng)
 Mô tả: Quản trị viên, khách hàng (người dùng) phải đăng nhập vào hệ thống bằng tài khoản và mật khẩu cá nhân đã đăng ký trước đó. Do theo phân quyền của quản trị viên mà vào đúng tài khoản truy cập của hệ thống.
-![image](https://github.com/user-attachments/assets/49ede923-3c7a-45e0-a3f9-11dafea7880f)
-**Use case quản lý sản phẩm:**
-Tác nhân: Admin (quản trị viên)
+![image](https://github.com/user-attachments/assets/49ede923-3c7a-45e0-a3f9-11dafea7880f)  
+**Use case quản lý sản phẩm:**  
+Tác nhân: Admin (quản trị viên)  
 Mô tả: Trong quản lý sản phẩm admin được phân quyền với chức năng thêm, sửa, xóa sản phẩm và xem danh sách sản phẩm cho các danh mục của sản phẩm.  
