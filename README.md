@@ -25,3 +25,9 @@ Mô tả: Quản trị viên, khách hàng (người dùng) phải đăng nhập
 **Use case quản lý sản phẩm:**  
 Tác nhân: Admin (quản trị viên)  
 Mô tả: Trong quản lý sản phẩm admin được phân quyền với chức năng thêm, sửa, xóa sản phẩm và xem danh sách sản phẩm cho các danh mục của sản phẩm.  
+![image](https://github.com/user-attachments/assets/05a837c1-8e81-4432-9621-bb45bd06dfe9)
+**Use case quản lý sản danh mục sản phẩm**  
+Tác nhân: Admin (quản trị viên).  
+Mô tả: Cho phép người quản trị (admin) thực hiện các thao tác quản lý danh mục sản phẩm như thêm mới, chỉnh sửa, xóa và xem danh sách danh mục.
+![image](https://github.com/user-attachments/assets/59de30c4-0708-4a0c-a0a0-58614dc40799)  
+
